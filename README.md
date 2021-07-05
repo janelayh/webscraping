@@ -9,6 +9,7 @@ To web-scrape data from chinese music websites (QQ Music, NetEase Music) and aut
   1. [Python3](https://www.python.org/downloads/)
   2. Selenium (`pip3 install selenium`)
   3. VPN with China server
+  4. [chromedriver](https://chromedriver.chromium.org/)
 
 ## How to use script:
   1. Put all the urls of audio tracks that you want to download in a CSV file (starting from row A1, one row per url).
